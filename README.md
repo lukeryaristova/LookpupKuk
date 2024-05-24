@@ -1,5 +1,5 @@
-# hello, world
+# NeuroStartUP
 
-i love an apple
-
-i want to an ice cream
+- High search accuracy
+-  Low price
+-  High search speed
