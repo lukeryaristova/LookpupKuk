@@ -7,7 +7,7 @@
 - High search accuracy
 -  Low price
 -  High search speed
--  
+  
 
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
